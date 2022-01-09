@@ -53,7 +53,6 @@ function Posts(){
                   <button className='like' onClick={likeinc}>like</button>
                   <button className='Comment' onClick={Commentinc}>Comment</button>
                   <button className='Share' onClick={Shareinc}>Share</button>
-                  
                 </div>
 
               )

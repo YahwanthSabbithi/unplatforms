@@ -8,56 +8,17 @@ export const Users = [
     location:"San Franciso",
     domain: "The concept of Research: A cross-cultural study",
     body:"Oxford Nanopore has pulled in £100m from investors in the Asia-Pacific region, as it completes a funding round that values the fast-growing UK biotechnology company at £1.5bn.",
-    shares:12,
-    views:109,
-    likes: 32,
-    comments: 9,
   },
   {
     id:2,
     profilePicture: "./components/images/1.jpeg",
     username: "Janell Shrum",
-  },
-  {
-    id:3,
-    profilePicture: "./components/images/1.jpeg",
-    username: "Alex Durden",
-  },
-  {
-    id:4,
-    profilePicture: "./components/images/1.jpeg",
-    username: "Dora Hawks",
-  },
-  {
-    id:5,
-    profilePicture: "./components/images/1.jpeg",
-    username: "Thomas Holden",
-  },
-  {
-    id:6,
-    profilePicture: "./components/images/1.jpeg",
-    username: "Shirley Beauchamp",
-  },
-  {
-    id:7,
-    profilePicture: "./components/images/1.jpeg",
-    username: "Travis Bennett",
-  },
-  {
-    id:8,
-    profilePicture: "./components/images/1.jpeg",
-    username: "Kristen Thomas",
-  },
-  {
-    id:9,
-    profilePicture: "./components/images/1.jpeg",
-    username: "Gary Duty",
-  },
-  {
-    id:10,
-    profilePicture: "./components/images/1.jpeg",
-    username: "Safak Kocaoglu",
-    
+    position:"Alum | Finance, MBA | 2016 | Business Manager at Capgemini",
+    duration:"1d",
+    location:"San Franciso",
+    domain: "The concept of Research: A cross-cultural study",
+    body:"Oxford Nanopore has pulled in £100m from investors in the Asia-Pacific region, as it completes a funding round that values the fast-growing UK biotechnology company at £1.5bn.",
+
   },
 ];
 
