@@ -1,8 +1,66 @@
 .rightbar {
-  flex: 3.5;
+  flex: 2.5;
 }
-
+.dropdown-item{
+  margin-bottom: 4px;
+}
+.dropdown-item.active{
+  background-color: #5655c6;
+  border-radius: 20px;
+}
 .rightbarWrapper {
   padding: 20px 20px 0 0;
 }
+.today{
+  width: 80%;
+}
+.day, .year {
+  font-size: 0.65em;
+  font-weight: 500;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+  color: white;
+  background:#5655c6 !important;
+}
+.sub{
+  text-transform: none;
+  font-size: xx-small;
+  letter-spacing: 0.29em;
+  margin-bottom: -1px;
+}
+.today-piece {
+  border-radius: 0.25rem;
+  padding: 1rem;
+  font-size: 1.25em;
+  text-align: center;
+  background: white;
+}
+.month {
+  padding-top: 1rem;
+  padding-bottom: 0;
+  font-size: 1.5em;
+  font-weight: 200;
+}
+.date {
+    padding-top: 0;
+    padding-bottom: 1rem;
+    font-size: 3em;
+    font-weight: 100;
+    color: #000;
+}
+.bottom {
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,6 +1,26 @@
 .list{
   list-style-type: none;
 }
+.domain{
+  font-size: 18px;
+}
+.btn:hover,
+.btn:active,
+.btn:focus,
+.btn.active {
+  color:#5655c6;
+  border: 0px transparent;
+  outline: transparent;
+  
+}
+.bld{
+  line-height: 26px !important;
+}
+.img{
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
 .post {
   width: 100%;
   border-radius: 10px;
